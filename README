@@ -19,5 +19,4 @@ truck
 
 The classes are completely mutually exclusive. There is no overlap between automobiles and trucks. "Automobile" includes sedans, SUVs, things of that sort. "Truck" includes only big trucks. Neither includes pickup trucks.
 
-Version	Size	md5sum
-[CIFAR-10 python version](https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz)-(163 MB)	c58f30108f718f92721af3b95e74349a
+ 
